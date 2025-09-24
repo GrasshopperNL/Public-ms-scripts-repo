@@ -17,4 +17,4 @@ All scripts have been tested, but always validate in a test environment before u
 ## 🚀 Usage
 1. Clone or download the repository:
    ```powershell
-   git clone https://github.com/<your-account>/ms-scripts.git
+   git clone https://github.com/GrasshopperNL/Public-ms-scripts-repo.git
